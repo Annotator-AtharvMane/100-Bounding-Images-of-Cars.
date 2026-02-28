@@ -7,4 +7,4 @@ Contact: atharvmane1118@gmail.com
 ## Raw Images
 
 ## Screenshot
-![screenshot](screenshot.01)
+![screenshot](Screenshot.01.png)
