@@ -3,7 +3,7 @@ This repository shows the 100 images of annotation with bounding box via CVAT.
 It gives the annotation file in json and yolo file format, google drive link to the raw 100 images and some screenshot as of proof.
 Contact: atharvmane1118@gmail.com 
 ## Annotation 
-(annotation 100 bounding box. json.json)
+[Download COCO JSON]()
 ## Raw Images
 https://drive.google.com/drive/folders/1mK92FYS2Jx8P18nm2kpuJcGKF3r74KYO?usp=sharing
 ## Screenshots
